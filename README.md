@@ -10,3 +10,4 @@ $ git init
 $ git status
 $ ls -al
 ```
+Petite modif pour la branche dev02
